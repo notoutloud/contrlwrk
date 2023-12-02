@@ -1,0 +1,15 @@
+/Users/kirillchukanov/Documents/contrlwrk/exer/bin/Debug/net7.0/exer
+/Users/kirillchukanov/Documents/contrlwrk/exer/bin/Debug/net7.0/exer.deps.json
+/Users/kirillchukanov/Documents/contrlwrk/exer/bin/Debug/net7.0/exer.runtimeconfig.json
+/Users/kirillchukanov/Documents/contrlwrk/exer/bin/Debug/net7.0/exer.dll
+/Users/kirillchukanov/Documents/contrlwrk/exer/bin/Debug/net7.0/exer.pdb
+/Users/kirillchukanov/Documents/contrlwrk/exer/obj/Debug/net7.0/exer.csproj.AssemblyReference.cache
+/Users/kirillchukanov/Documents/contrlwrk/exer/obj/Debug/net7.0/exer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillchukanov/Documents/contrlwrk/exer/obj/Debug/net7.0/exer.AssemblyInfoInputs.cache
+/Users/kirillchukanov/Documents/contrlwrk/exer/obj/Debug/net7.0/exer.AssemblyInfo.cs
+/Users/kirillchukanov/Documents/contrlwrk/exer/obj/Debug/net7.0/exer.csproj.CoreCompileInputs.cache
+/Users/kirillchukanov/Documents/contrlwrk/exer/obj/Debug/net7.0/exer.dll
+/Users/kirillchukanov/Documents/contrlwrk/exer/obj/Debug/net7.0/refint/exer.dll
+/Users/kirillchukanov/Documents/contrlwrk/exer/obj/Debug/net7.0/exer.pdb
+/Users/kirillchukanov/Documents/contrlwrk/exer/obj/Debug/net7.0/exer.genruntimeconfig.cache
+/Users/kirillchukanov/Documents/contrlwrk/exer/obj/Debug/net7.0/ref/exer.dll
